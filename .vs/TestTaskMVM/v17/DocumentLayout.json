@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ASP Projects\\TestTaskMVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|d:\\projects\\asp projects\\testtaskmvm\\testtaskmvm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|d:\\projects\\asp projects\\testtaskmvm\\testtaskmvm\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|d:\\projects\\asp projects\\testtaskmvm\\testtaskmvm\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|d:\\projects\\asp projects\\testtaskmvm\\testtaskmvm\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|d:\\projects\\asp projects\\testtaskmvm\\testtaskmvm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|d:\\projects\\asp projects\\testtaskmvm\\testtaskmvm\\models\\totalchatsreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\models\\totalchatsreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|d:\\projects\\asp projects\\testtaskmvm\\testtaskmvm\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|D:\\Projects\\ASP Projects\\TestTaskMVM\\testtaskmvm\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\models\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|d:\\projects\\asp projects\\testtaskmvm\\testtaskmvm\\data\\tags-report.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\data\\tags-report.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|d:\\projects\\asp projects\\testtaskmvm\\testtaskmvm\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|d:\\projects\\asp projects\\testtaskmvm\\testtaskmvm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|d:\\projects\\asp projects\\testtaskmvm\\testtaskmvm\\models\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1871BD18-B1B3-4E27-8810-E06F8000F5AE}|TestTaskMVM\\TestTaskMVM.csproj|solutionrelative:testtaskmvm\\models\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 20,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "TestTaskMVM\\Controllers\\ReportsController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwv2AAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T01:58:07.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TotalChatsReport.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\TotalChatsReport.cs",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Models\\TotalChatsReport.cs",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\TotalChatsReport.cs",
+              "RelativeToolTip": "TestTaskMVM\\Models\\TotalChatsReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T02:12:58.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Views\\Projects\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Views\\Projects\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Views\\Projects\\Index.cshtml",
+              "RelativeToolTip": "TestTaskMVM\\Views\\Projects\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T01:38:31.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "TestTaskMVM\\Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T02:55:46.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "TestTaskMVM\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T03:17:36.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestTaskMVM\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:48:08.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Request.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Models\\Request.cs",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\Request.cs",
+              "RelativeToolTip": "TestTaskMVM\\Models\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T02:13:05.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Record.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\Record.cs",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Models\\Record.cs",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\Record.cs",
+              "RelativeToolTip": "TestTaskMVM\\Models\\Record.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T02:41:59.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tags-report.json",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Data\\tags-report.json",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Data\\tags-report.json",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Data\\tags-report.json",
+              "RelativeToolTip": "TestTaskMVM\\Data\\tags-report.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T04:03:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\Filters.cs",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Models\\Filters.cs",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\Filters.cs",
+              "RelativeToolTip": "TestTaskMVM\\Models\\Filters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T02:13:14.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Groups.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\Groups.cs",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Models\\Groups.cs",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\Groups.cs",
+              "RelativeToolTip": "TestTaskMVM\\Models\\Groups.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T02:13:15.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TestTaskMVM\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TestTaskMVM\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T02:13:03.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

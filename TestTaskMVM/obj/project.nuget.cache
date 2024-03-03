@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H4gnoPOHfqFM5D8r/H/kK2IV1M2LGyTQoPCTzTW4FA6COHEgJLXOaBhEiaOM57Aq0soLscIN7KNg6lAIrhcNVA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\ASP Projects\\TestTaskMVM\\TestTaskMVM\\TestTaskMVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nijat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+    "C:\\Users\\nijat\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

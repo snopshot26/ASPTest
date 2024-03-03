@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "TestTaskMVM.Controllers.ReportsController",
+    "Method": "GetRating",
+    "RelativePath": "api/Reports/ratings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestTaskMVM.Controllers.ReportsController",
+    "Method": "GetResponseTime",
+    "RelativePath": "api/Reports/response-time",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestTaskMVM.Controllers.ReportsController",
+    "Method": "GetTags",
+    "RelativePath": "api/Reports/tags",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestTaskMVM.Controllers.ReportsController",
+    "Method": "GetTotalChats",
+    "RelativePath": "api/Reports/total-chats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
